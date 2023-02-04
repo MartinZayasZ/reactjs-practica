@@ -1,3 +1,7 @@
+1 hora con 4 min
+https://www.youtube.com/watch?v=rLoWMU4L_qE&t=3s
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
